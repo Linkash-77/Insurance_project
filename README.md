@@ -23,7 +23,7 @@ A user-friendly platform for buying and claiming insurance, designed for seamles
 - Express.js  
 
 ### Database  
-- SQL/NoSQL  
+- Mongodb
 
 ## Installation  
 
